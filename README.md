@@ -1,1 +1,1 @@
-# Exemplo cronômetro utilizando states do React.js
+## Exemplo cronômetro utilizando states do React.js
